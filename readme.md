@@ -1,7 +1,7 @@
 # Random stock generator
 
 ## About
-This is a small program that fetches available swedish stocks from Avanza.se and then picks a random one that fits a chosen configuration.
+This is a small program that fetches available swedish stocks from a hidden page on avanza.se and then picks a random one that fits a chosen configuration.
 Made for a friend who wanted to invest a little in a random stock each month for fun :)
 
 ## Usage
